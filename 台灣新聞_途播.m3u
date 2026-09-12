@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="台灣新聞",三立新聞
+https://stream1.freetv.fun/7a1082382a249c26284e59e9818b1658f66364700d9dccb99445ad3548ab5e5a.m3u8
+#EXTINF:-1 group-title="台灣新聞",中視新聞
+https://stream1.freetv.fun/3a583495eeab7f54152b8e8dd24fec83f7834083a2b7e2a5260f66dc4bde5860.m3u8
+#EXTINF:-1 group-title="台灣新聞",華視新聞
+https://stream1.freetv.fun/e159b93114a44d525a361167a5d74a614b6cc976f88913dcb6613aaac886dd67.m3u8
+#EXTINF:-1 group-title="台灣新聞",民視新聞
+https://stream1.freetv.fun/baf543e34265345362347b7ce3235c573fe01b147495c186a0ea7f98862f3b3a.m3u8
