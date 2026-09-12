@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 group-title="測試",三立新聞-Header測試
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stream1.freetv.fun/7a1082382a249c26284e59e9818b1658f66364700d9dccb99445ad3548ab5e5a.m3u8
