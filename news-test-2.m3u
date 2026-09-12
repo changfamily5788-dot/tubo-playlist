@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="新聞測試",三立新聞
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY05-B0222.m3u8
+#EXTINF:-1 group-title="新聞測試",TVBS新聞
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY06-B0223.m3u8
